@@ -12,7 +12,7 @@ Documentation for the new WSSTE system using Airtable, Zapier &amp; Quickbooks.
 ## For Brand new families (these forms only need to be filled out once by brand new students).
 1. New Parent Registration [Here](https://airtable.com/appQuyMgZDPmykQ6B/pagU6dBycz0eKy5Wn/form)
     - New families must FIRST register parents.
-2. New Student Registration [Here](https://airtable.com/appQuyMgZDPmykQ6B/pag4esdkRrzYy24SC/form)
+2. New Student Registration [Here](https://airtable.com/appQuyMgZDPmykQ6B/pagLsfmfEQsw0WJvX/form)
     - Next, the student can then be registered.
     - Parents must register first because inside the student registration form, you must link the parent to the student.
 
